@@ -20,4 +20,5 @@ Connected Power BI directly to PostgreSQL database and built an interactive dash
 - Dashboard Design
 
 ## Screenshot
-![Dashboard](banking_sql_dashboard.png)
+
+<img width="1146" height="623" alt="image" src="https://github.com/user-attachments/assets/c41ac079-ec44-4ab4-8a87-944a87cad22c" />
